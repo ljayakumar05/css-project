@@ -2,4 +2,136 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0F1017
+}
+
+.container{
+    max-width: 950px;
+    width: 100%;
+    background: #0F1017;
+    margin: 0 20px;
+    padding: 40px 50px 40px 40px;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 0 8px 10px rgba(0,0,0,0.6);
+}
+
+.box1{
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #2B2D33;
+    border-radius: 5px;
+    background: #181A20;
+    box-shadow: 0 8px 10px rgba(0,0,0,0.5);
+}
+
+.box1 h1{
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    color: #FCFFF6;
+}
+
+.box1 p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FCFFF6;
+}
+
+.box1 button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background: #0468FF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+}
+
+.box2{
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #2B2D33;
+    border-radius: 5px;
+    background: #181A20;
+    box-shadow: 0 8px 10px rgba(0,0,0,0.5);
+}
+
+.box2 h1{
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    color: #FCFFF6;
+}
+
+.box2 p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FCFFF6;
+}
+
+.box2 button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background: #0468FF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+}
+
+.box3{
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #2B2D33;
+    border-radius: 5px;
+    background: #181A20;
+    box-shadow: 0 8px 10px rgba(0,0,0,0.5);
+}
+
+.box3 h1{
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    color: #FCFFF6;
+}
+
+.box3 p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FCFFF6;
+}
+
+.box3 button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background: #0468FF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.5);
 }
