@@ -22,7 +22,7 @@ body{
     padding: 40px 50px 40px 40px;
     border-radius: 10px;
     display: flex;
-    box-shadow: 0 8px 10px rgba(0,0,0,0.6);
+    box-shadow: 0 18px 10px rgba(0,0,0,0.6);
 }
 
 .box1{
